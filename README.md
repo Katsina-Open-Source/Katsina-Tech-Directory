@@ -94,8 +94,8 @@ We welcome contributions from everyone! Whether you're a developer, company, or 
 
 Join our growing community:
 
-- **Website**: [katsinatech.directory](https://katsinatech.directory)
-- **GitHub**: [github.com/katsinatech/directory](https://github.com/katsinatech/directory)
+- **Website**: [katsinatech.directory](https://katsina-tech-directory.vercel.app/)
+- **GitHub**: [github.com/katsinatech/directory](https://github.com/Katsina-Open-Source/)
 - **Issues**: Report bugs or suggest features
 
 ## 📄 License
