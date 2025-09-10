@@ -21,7 +21,7 @@ If you're new to GitHub, don't worry! Follow these step-by-step instructions:
 
 ### Step 2: Fork the Repository
 
-1. Go to [github.com/katsinatech/directory](https://github.com/katsinatech/directory)
+1. Go to [https://github.com/Katsina-Open-Source/Katsina-Tech-Directory](https://github.com/Katsina-Open-Source/Katsina-Tech-Directory)
 2. Click the "Fork" button in the top-right corner
 3. This creates your own copy of the project
 
@@ -150,7 +150,7 @@ A: Just omit the optional fields you don't have.
 
 - **GitHub Issues**: [Create an issue](https://github.com/katsinatech/directory/issues) for bugs or questions
 - **Discussions**: Use GitHub Discussions for general questions
-- **Email**: Contact us at [community@katsinatech.directory](mailto:community@katsinatech.directory)
+- **Email**: Contact us at [kosc.community@gmail.com](mailto:kosc.community@gmail.com)
 
 ## 🎉 After Your Contribution
 
