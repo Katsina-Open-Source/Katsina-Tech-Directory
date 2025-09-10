@@ -46,7 +46,7 @@ export default function HomePage() {
           open source project on GitHub.
         </p>
         <Button asChild size="lg">
-          <Link href="https://github.com/katsinatech/directory" target="_blank">
+            <Link href="https://github.com/Katsina-Open-Source/Katsina-Tech-Directory" target="_blank"> 
             <Heart className="w-5 h-5 mr-2" />
             Contribute on GitHub
           </Link>
