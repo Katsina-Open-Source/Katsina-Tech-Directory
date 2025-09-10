@@ -40,18 +40,19 @@ export function GitHubStats({ owner, repo }: GitHubStatsProps) {
         setError(null)
 
         // Fetch repository data
-        const repoResponse = await fetch(`https://api.github.com/repos/${owner}/${repo}`)
+         const repoResponse = await fetch(`https://api.github.com/repos/Katsina-Open-Source/Katsina-Tech-Directory`) 
+
         if (!repoResponse.ok) {
           throw new Error("Repository not found")
         }
         const repoData = await repoResponse.json()
 
         // Fetch contributors
-        const contributorsResponse = await fetch(`https://api.github.com/repos/${owner}/${repo}/contributors`)
+        const contributorsResponse = await fetch(`https://api.github.com/repos/Katsina-Open-Source/Katsina-Tech-Directory/contributors`)
         const contributorsData = contributorsResponse.ok ? await contributorsResponse.json() : []
 
         // Fetch commit count (using a simple approach)
-        const commitsResponse = await fetch(`https://api.github.com/repos/${owner}/${repo}/commits?per_page=1`)
+        const commitsResponse = await fetch(`https://api.github.com/repos/Katsina-Open-Source/Katsina-Tech-Directory/commits?per_page=1`)
         let totalCommits = 0
         if (commitsResponse.ok) {
           const linkHeader = commitsResponse.headers.get("link")
