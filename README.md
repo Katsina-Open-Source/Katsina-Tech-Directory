@@ -38,7 +38,7 @@ The Katsina Tech Directory serves as a central hub for discovering and connectin
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/katsinatech/directory.git
+git clone https://github.com/Katsina-Open-Source/Katsina-Tech-Directory.git
 cd directory
 \`\`\`
 
