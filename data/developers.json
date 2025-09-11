@@ -24,6 +24,19 @@
     "github": "https://github.com/Shadowdev-hub",
     "twitter": "https://x.com/shadowDev447",
     "linkedin": "#"
+  },
+  {
+    "id": 3,
+    "name": "Mus'ab Kabir Sani",
+    "career": "Frontend Developer",
+    "company": "Empowerpath",
+    "role": "Junior frontend Developer",
+    "profile_photo": "image/musab.jpg",
+    "email": "musabkabirbkr@gmail.com",
+    "website": "#",
+    "github": "https://github.com/DevMusab",
+    "twitter": "#",
+    "linkedin": ""
   }
 ]
   
