@@ -8,7 +8,7 @@ export default function HomePage() {
     <div className="container mx-auto px-4 py-8">
       {/* Hero Section */}
       <section className="text-center py-16">
-        <h1 className="text-4xl md:text-6xl font-bold text-foreground mb-6 text-balance">Katsina Tech Directory</h1>
+        <h1 className="text-4xl md:text-6xl font-bold text-foreground mb-6 text-balance">Katsina Open Source Directory</h1>
         <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto text-pretty">
           Discover and connect with the vibrant tech community in Katsina State, Nigeria. Find developers, companies,
           and communities shaping the future of technology.

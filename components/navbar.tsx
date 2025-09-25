@@ -24,7 +24,7 @@ export function Navbar() {
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center space-x-8">
             <Link href="/" className="text-xl font-bold text-foreground">
-              Katsina Tech Directory
+              Katsina Open Source Directory
             </Link>
             <div className="hidden md:flex space-x-6">
               <Link href="/developers" className="text-muted-foreground hover:text-foreground transition-colors">
