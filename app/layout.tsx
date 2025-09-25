@@ -9,9 +9,8 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Katsina Tech Directory",
+  title: "Katsina Open Source Directory",
   description: "A comprehensive directory of developers, companies, and communities in Katsina State, Nigeria",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
